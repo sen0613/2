@@ -22,4 +22,5 @@ public class PassValidateServiceImpl implements PassValidateService{
             return true;
         }
     }
+
 }

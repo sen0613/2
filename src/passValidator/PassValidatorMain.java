@@ -29,7 +29,6 @@ public class PassValidatorMain {
         String userId = in.nextLine();
 
 
-
         PassValidateService service = new PassValidateServiceImpl();
 
 //        boolean isUser = service.hasUsername(userId, userRepo);
